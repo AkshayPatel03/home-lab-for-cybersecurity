@@ -21,13 +21,13 @@ This project provides a detailed guide to set up a home lab for cybersecurity pr
 - Go to the [VirtualBox download page](https://www.virtualbox.org/wiki/Downloads).
 - Download the appropriate version for your operating system.
 
-![VirtualBox Installation](../home-lab-for-cybersecurity/virtualbox_download-1.png)
+![VirtualBox Installation](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/virtualbox_download-1.png)
 
 #### Step 2: Install VirtualBox
 - Run the installer and follow the installation instructions.
 - Accept all default settings unless you have specific requirements.
 
-![VirtualBox Installation](images/virtualbox_install.png)
+![VirtualBox Installation](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/virtualbox_download-2.png)
 
 ### 2. Download Windows 10 ISO
 #### Step 1: Download Windows 10 ISO
@@ -36,40 +36,75 @@ This project provides a detailed guide to set up a home lab for cybersecurity pr
 - Choose the language and click on "Confirm".
 - Select either the 32-bit or 64-bit download.
 
-![Windows 10 ISO Download](images/windows10_download.png)
+![Windows 10 ISO Download](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/windows10_download-1.png)
+
+![Windows 10 ISO Download](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/windows10_download-2.png)
+
+![Windows 10 ISO Download](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/windows10_download-3.png)
+
+![Windows 10 ISO Download](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/windows10_download-4.png)
+
+![Windows 10 ISO Download](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/windows10_download-5.png)
+
+![Windows 10 ISO Download](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/windows10_download-6.png)
 
 ### 3. Set Up Virtual Machine for Windows 10
 #### Step 1: Create a New Virtual Machine
 - Open VirtualBox and click on "New".
 - Enter the name, type (Microsoft Windows), and version (Windows 10).
 
-![Create VM](images/create_vm.png)
+![Create VM](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/create_vm-1.png)
+
+![Create VM](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/create_vm-2.png)
+
+![Create VM](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/create_vm-3.png)
+
+![Create VM](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/create_vm-4.png)
+
+![Create VM](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/create_vm-5.png)
 
 #### Step 2: Configure the Virtual Machine
 - Allocate memory (at least 2GB recommended).
 - Create a virtual hard disk (VDI, dynamically allocated, 50GB).
 
-![Configure VM](images/configure_vm.png)
+![Configure VM](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/configure_vm-1.png)
+
+![Configure VM](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/configure_vm-2.png)
+
+![Configure VM](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/configure_vm-3.png)
+
+![Configure VM](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/configure_vm-4.png)
+
+![Configure VM](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/configure_vm-5.png)
+
+![Configure VM](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/configure_vm-6.png)
+
+
 
 #### Step 3: Install Windows 10
 - Select the newly created VM and click "Start".
 - Browse to the Windows 10 ISO file and start the installation.
 - Follow the on-screen instructions to complete the installation.
 
-![Install Windows 10](images/install_windows10.png)
+![Install Windows 10](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/configure_vm-4.png)
 
 ### 4. Download and Set Up Kali Linux
 #### Step 1: Download Kali Linux ISO
 - Go to the [Kali Linux download page](https://www.kali.org/downloads/).
 - Download the ISO file.
 
-![Kali Linux Download](images/kali_download.png)
+![Kali Linux Download](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/kali_download-1.png)
+
+![Kali Linux Download](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/kali_download-2.png)
+
+![Kali Linux Download](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/kali_download-3.png)
 
 #### Step 2: Create a New Virtual Machine
-- Open VirtualBox and click on "New".
+- Open VirtualBox and click on "New". Follow the same steps we followed in the Windows 10 installation
 - Enter the name, type (Linux), and version (Debian 64-bit).
 
-![Create Kali VM](images/create_kali_vm.png)
+![Create VM](https://github.com/AkshayPatel03/Project_screenshots/blob/004658c2938996397df90e3f1db6e881c5c801d5/home-lab-for-cybersecurity/create_vm-1.png)
+
 
 #### Step 3: Configure the Virtual Machine
 - Allocate memory (at least 2GB recommended).
@@ -80,20 +115,20 @@ This project provides a detailed guide to set up a home lab for cybersecurity pr
 - Browse to the Kali Linux ISO file and start the installation.
 - Follow the on-screen instructions to complete the installation.
 
-![Install Kali Linux](images/install_kali.png)
+![Install Kali Linux](https://github.com/AkshayPatel03/Project_screenshots/blob/c7c0575a44b62ea79eeca4b01c4a2be9799a4e7e/home-lab-for-cybersecurity/Install_KaliLinux-1.png)
 
 ### 5. Download and Set Up Metasploitable
 #### Step 1: Download Metasploitable
 - Go to the [SourceForge Metasploitable download page](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/).
 - Download the Metasploitable ZIP file.
 
-![Metasploitable Download](images/metasploitable_download.png)
+![Metasploitable Download](https://github.com/AkshayPatel03/Project_screenshots/blob/c7c0575a44b62ea79eeca4b01c4a2be9799a4e7e/home-lab-for-cybersecurity/metasploitable_download-1.png)
+
+![Metasploitable Download](https://github.com/AkshayPatel03/Project_screenshots/blob/c7c0575a44b62ea79eeca4b01c4a2be9799a4e7e/home-lab-for-cybersecurity/metasploitable_download-2.png)
 
 #### Step 2: Create a New Virtual Machine
-- Open VirtualBox and click on "New".
-- Enter the name, type (Linux), and version (Other Linux 32-bit).
-
-![Create Metasploitable VM](images/create_metasploitable_vm.png)
+- Open VirtualBox and click on "New". 
+- Enter the name, type (Linux), and version (Other Linux 32-bit). Follow the same steps we followed in the Windows 10 installation
 
 #### Step 3: Configure the Virtual Machine
 - Allocate memory (at least 512MB recommended).
@@ -102,7 +137,10 @@ This project provides a detailed guide to set up a home lab for cybersecurity pr
 #### Step 4: Start Metasploitable
 - Select the newly created VM and click "Start".
 
-![Start Metasploitable](images/start_metasploitable.png)
+![Start Metasploitable](https://github.com/AkshayPatel03/Project_screenshots/blob/c7c0575a44b62ea79eeca4b01c4a2be9799a4e7e/home-lab-for-cybersecurity/Insatall_Metasploitable_VM-1.png)
+
+
+
 
 ### 6. Testing the Lab Setup
 - Ensure all VMs can communicate with each other.
