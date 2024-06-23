@@ -21,7 +21,7 @@ This project provides a detailed guide to set up a home lab for cybersecurity pr
 - Go to the [VirtualBox download page](https://www.virtualbox.org/wiki/Downloads).
 - Download the appropriate version for your operating system.
 
-![VirtualBox Installation](images/virtualbox_download.png)
+![VirtualBox Installation](/home-lab-for-cybersecurity/virtualbox_download-1.png)
 
 #### Step 2: Install VirtualBox
 - Run the installer and follow the installation instructions.
