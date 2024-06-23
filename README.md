@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project provides a detailed guide to set up a home lab for cybersecurity practice. The lab will include VirtualBox, Windows 10, Metasploitable, and Kali Linux. By following these steps, you'll create a safe environment to test and enhance your cybersecurity skills.
+Welcome to my home lab setup! This project demonstrates my proficiency in creating and utilizing a secure environment for practicing various cybersecurity techniques. I use this lab to explore different tools, perform penetration testing, and continuously enhance my cybersecurity skills. The lab will include VirtualBox, Windows 10, Metasploitable, and Kali Linux.
 
 ## Requirements
 
@@ -235,13 +235,21 @@ VirtualBox provides several network adapter options that you can use to configur
 
 1. **Scan Metasploitable from Kali Linux:**
    - Open a terminal in Kali Linux.
-   - Run `nmap -p- [Metasploitable_IP]` to scan all ports of the Metasploitable VM.
+   - Run `nmap -p- 192.168.10.5` to scan all ports of the Metasploitable VM.
 
-![Nmap Scan]()
+![Nmap Scan](images/connection_test-1.png)
+
+![Nmap Scan](images/connection_test-2.png)
+
+![Nmap Scan](images/connection_test-3.jpg)
+
+![Nmap Scan](images/connection_test-4.png)
+
+![Nmap Scan](images/connection_test-5.png)
 
 ## Conclusion
 
-Congratulations on setting up your home lab! You now have a safe environment to practice various cybersecurity techniques. Use this lab to explore different tools, perform penetration testing, and improve your cybersecurity skills.
+Congratulations on setting up the home lab! This environment is perfect for practicing various cybersecurity techniques in a safe and controlled setting. Using this lab, I will explore different tools, perform penetration testing, and continuously improve my cybersecurity skills. This project not only enhances my learning but also showcases my ability to create and manage complex technical environments.
 
 ## Next Steps
 
